@@ -2,8 +2,8 @@
 // Created by mind on 17-7-22.
 //
 
-#ifndef CPP17_MILK_H
-#define CPP17_MILK_H
+#ifndef CPP17_MILK_MILK_H
+#define CPP17_MILK_MILK_H
 
 
 #include <cstdint>
@@ -58,4 +58,4 @@ struct T {
 };
 
 } // namespace Milk
-#endif //CPP17_MILK_H
+#endif //CPP17_MILK_MILK_H
